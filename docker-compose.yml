@@ -18,3 +18,4 @@ services:
       - NEXT_PUBLIC_CHAT_FILES_MAX_SIZE=0
     depends_on:
       - chatfiles
+docker-compose up
